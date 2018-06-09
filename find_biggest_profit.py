@@ -147,7 +147,7 @@ class TestGetMaxProfitFunction(
         TestGetMaxProfitFunctionMixin,
         unittest.TestCase):
     """
-    Test geedy implementation of get_max_profi_function
+    Test greedy implementation of get_max_profi_function
     with double loops
     """
 
